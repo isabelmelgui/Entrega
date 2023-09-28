@@ -4,6 +4,8 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
+holahoalahaoasoa
+
 # load pretrained model
 model = yolov5.load('yolov5s.pt')
 
